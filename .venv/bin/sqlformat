@@ -1,4 +1,4 @@
-#!/Users/ishitanarsiker/Desktop/year2/WAD2-Tango-with-Django/.venv/bin/python
+#!/Users/ishitanarsiker/Desktop/year2/WAD2-Tango-with-Django/.venv/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys
